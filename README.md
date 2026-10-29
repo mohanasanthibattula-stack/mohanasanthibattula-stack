@@ -32,6 +32,7 @@ An end-to-end web analytics, conversion funnel diagnostic, and cohort behavioral
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**geospatial-data-analysis**](https://github.com/mohanasanthibattula-stack/geospatial-data-analysis) | Geospatial market demand modeling, Folium interactive maps, and competitor whitespace detection | Python, Folium, Pandas, ReportLab |
 | [**web-traffic-analytics**](https://github.com/mohanasanthibattula-stack/web-traffic-analytics) | Web traffic attribution, funnel drop-off analysis, and interactive dashboard ([Live Demo](https://mohanasanthibattula-stack.github.io/web-traffic-analytics/)) | Python, Streamlit, Plotly |
 | [**desktop-agent**](https://github.com/mohanasanthibattula-stack/desktop-agent) | Production-quality local-first Personal AI Desktop Agent for Windows | Python, CLI, GUI |
 | [**data-cleaning-customer-churn**](https://github.com/mohanasanthibattula-stack/data-cleaning-customer-churn) | End-to-end data cleaning, outlier treatment, and exploratory churn modeling | Python, Pandas |
